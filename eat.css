@@ -1,2 +1,19 @@
 body{font-family: 'Poppins', sans-serif;
 margin: 50px;}
+h1 {color: crimson;
+font-size: 60px;}
+.color-1{color: blueviolet;}
+
+.half-width{width:50% ;
+padding: 2%;}
+.half-width img{width: 80%;}
+
+section{display: flex;}
+
+.linkfood{text-decoration:none ;
+color: crimson;
+background-color: rgb(219, 199, 17);
+padding: 10px 40px;
+border-radius: 10%;}
+
+.daiet-food{background-image: url(Frame\ 59.jpg);}
