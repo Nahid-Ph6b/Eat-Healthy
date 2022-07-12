@@ -11,11 +11,11 @@ padding: 2%;}
 .flexible-container{display: flex;}
 
 .linkfood{text-decoration:none ;
-color: crimson;
-background-color: rgb(219, 199, 17);
+color:white;
+background-color: rgb(226, 55, 69);
 padding: 10px 40px;
 border-radius: 10%;
-box-shadow:10px 15px 20px yellow ;}
+box-shadow:10px 15px 20px rgb(226, 55, 69) ;}
 
 .daiet-food{background-image: url(Frame\ 59.jpg);}
 
@@ -33,10 +33,10 @@ box-shadow:10px 15px 20px yellow ;}
         
     .link-contact{text-decoration: none ;
         padding: 10px 40px;
-    background-color: deeppink;
+    background-color:goldenrod;
 border-radius: 10px;
 padding: 10px 40px;
-box-shadow:10px 15px 30px deeppink ;}
+box-shadow:10px 15px 30px crimson ;}
 
 h2{text-align: center;font-size:30px ;}
 .text{text-align: center;}
@@ -87,5 +87,5 @@ box-shadow:5px 10px 15px chartreuse ;}
     padding: 5%;
     box-shadow:5px 10px 15px chartreuse ;}
 
-    footer h3{text-align:center ;color: blueviolet;}
+    footer h3{text-align:center ;color: crimson;}
     footer p{text-align: center;color: orangered;}
